@@ -13,11 +13,6 @@
 		<input type="button" value="Contactanos" onclick="window.search()">
 		<input type="button" value="Informacion" onclick="window.search()">
 		
-		<div id="vinc"><a href="https://www.youtube.com/watch?v=GmiZ0F1Ounw" 
-		onmouseover="javascript: void(document.getElementById('vinc').style.fontSize='1em')" 
-		onmouseout="javascript: void(document.getElementById('vinc').style.fontSize='1em')">
-		Parques Protegidos de Honduras</div>
-
 	</form>
 	</section>
 	<p><b><font size = "5", color = "purple">CLASE PROGRAMACION APLICADA A LOS SISTEMAS DE INFORMACION GEOGRAFICA (CTE 524)</font></b>, <br><font size = 5, color = "purple"></font></br>EN CENTROAMERICA HONDURAS</br></p><br></br>
